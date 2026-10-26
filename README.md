@@ -2,8 +2,6 @@
 
 An end-to-end data analytics and HCI project. I cleaned a survey dataset of 500 students, built an interactive dashboard to visualize stress and sleep patterns, and documented the user experience.
 
-![Dashboard Preview](dashboard_preview.png)
-
 ## 📊 The Data
 - **Source:** Simulated survey data (500 responses)
 - **Cleaning:** Addressed impossible values (GPA > 4.0), unrealistic study hours, and missing data using pandas. (See `data/clean_data.py`)
